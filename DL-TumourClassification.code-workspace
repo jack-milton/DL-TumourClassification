@@ -1,11 +1,4 @@
 {
-<<<<<<< HEAD
-    "folders": [
-        {
-            "path": "."
-        }
-    ]
-=======
 	"folders": [
 		{
 			"name": "DL-TumourClassification",
@@ -13,5 +6,4 @@
 		}
 	],
 	"settings": {}
->>>>>>> efa57f99401f5fe38ed7deec8c94f905fab69e4e
 }
